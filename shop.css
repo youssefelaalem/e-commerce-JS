@@ -1,0 +1,14 @@
+.CartProduct {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Quantity, .price {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.TotalPrice h4 {
+    margin-bottom: 20px;
+}
